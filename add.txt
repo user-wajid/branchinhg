@@ -1,4 +1,4 @@
-function  integer f(parameer){
+function   f int (int ,int j){
 
 return parameter+paramete
 
