@@ -1,4 +1,6 @@
-function  integer f(int i ,int j){
+
+
+function   f int (int ,int j){
 
 return parameter+paramete
 
