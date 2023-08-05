@@ -1,0 +1,5 @@
+function  integer f(parameer){
+
+return parameter+paramete
+
+}
